@@ -1,4 +1,6 @@
 # FaceRecognizer
+# Agus Hery
+
 1) Initialize the environment cv using the necessary commands, or create your own virtual env using venv command
 		Make sure the following dependencies are installed in the virtual environment if u have created one
 			i) OpenCV	
